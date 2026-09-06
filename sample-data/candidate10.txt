@@ -1,0 +1,21 @@
+Name: Rahul Verma
+
+Education:
+Bachelor of Engineering in Mechanical Engineering
+
+Skills:
+C++, Python, HTML, CSS, SQL
+
+Experience:
+2 years of experience as a Mechanical Design Engineer.
+
+Projects:
+Developed automation scripts using Python.
+Worked with SQL for storing project data.
+Created basic web pages using HTML and CSS.
+
+Summary:
+Mechanical Engineering graduate with two years of professional
+experience. Strong technical and programming fundamentals.
+Has limited experience with Java and no professional experience
+with Spring Boot.

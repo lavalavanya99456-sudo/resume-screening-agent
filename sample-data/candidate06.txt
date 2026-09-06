@@ -1,0 +1,21 @@
+Name: Vikram Singh
+
+Education:
+Bachelor of Technology in Computer Science
+
+Skills:
+Java, Python, SQL, HTML, CSS, JavaScript, Git
+
+Experience:
+2 years of experience as a Python Developer.
+
+Projects:
+Developed web applications using Python and SQL.
+Created REST APIs and worked with relational databases.
+Used Git for source code management.
+
+Summary:
+Computer Science graduate with two years of software
+development experience. Strong programming and database
+skills. Experienced in Python development with basic
+knowledge of Java. Limited experience with Spring Boot.

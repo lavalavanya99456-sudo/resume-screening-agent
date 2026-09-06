@@ -1,0 +1,81 @@
+
+  "educationScore" : 21.92457248482433,
+  "experienceScore" : 0.0,
+  "overallScore" : 42.65142702234807,
+  "reasoning" : "Candidate Priya Menon has a skill match of 76.5%, education match of 21.9%, and experience match of 0.0%. Overall relevance score is 42.7%."
+}, {
+  "rank" : 4,
+  "candidateName" : "Ananya Rao",[ {
+  "rank" : 1,
+  "candidateName" : "Diya Reddy",
+  "skillScore" : 100.00000000000003,
+  "educationScore" : 19.439761315688678,
+  "experienceScore" : 0.0,
+  "overallScore" : 53.88795226313775,
+  "reasoning" : "Candidate Diya Reddy has a skill match of 100.0%, education match of 19.4%, and experience match of 0.0%. Overall relevance score is 53.9%."
+}, {
+  "rank" : 2,
+  "candidateName" : "Aarav Sharma",
+  "skillScore" : 76.5330250507664,
+  "educationScore" : 25.69564894663026,
+  "experienceScore" : 23.58695053447331,
+  "overallScore" : 50.481727475051244,
+  "reasoning" : "Candidate Aarav Sharma has a skill match of 76.5%, education match of 25.7%, and experience match of 23.6%. Overall relevance score is 50.5%."
+}, {
+  "rank" : 3,
+  "candidateName" : "Priya Menon",
+  "skillScore" : 76.5330250507664,
+  "skillScore" : 48.65786600969648,
+  "educationScore" : 25.69564894663026,
+  "experienceScore" : 25.69564894663026,
+  "overallScore" : 37.17675747816337,
+  "reasoning" : "Candidate Ananya Rao has a skill match of 48.7%, education match of 25.7%, and experience match of 25.7%. Overall relevance score is 37.2%."
+}, {
+  "rank" : 5,
+  "candidateName" : "Sneha Patel",
+  "skillScore" : 46.16824609174167,
+  "educationScore" : 25.69564894663026,
+  "experienceScore" : 21.92457248482433,
+  "overallScore" : 34.80062458064419,
+  "reasoning" : "Candidate Sneha Patel has a skill match of 46.2%, education match of 25.7%, and experience match of 21.9%. Overall relevance score is 34.8%."
+}, {
+  "rank" : 6,
+  "candidateName" : "Vikram Singh",
+  "skillScore" : 59.13961430586596,
+  "educationScore" : 25.69564894663026,
+  "experienceScore" : 0.0,
+  "overallScore" : 34.70893694225903,
+  "reasoning" : "Candidate Vikram Singh has a skill match of 59.1%, education match of 25.7%, and experience match of 0.0%. Overall relevance score is 34.7%."
+}, {
+  "rank" : 7,
+  "candidateName" : "Karthik Shetty",
+  "skillScore" : 51.466093160456964,
+  "educationScore" : 19.439761315688678,
+  "experienceScore" : 0.0,
+  "overallScore" : 29.620998843366216,
+  "reasoning" : "Candidate Karthik Shetty has a skill match of 51.5%, education match of 19.4%, and experience match of 0.0%. Overall relevance score is 29.6%."
+}, {
+  "rank" : 8,
+  "candidateName" : "Meera Nair",
+  "skillScore" : 37.07207290045968,
+  "educationScore" : 19.439761315688678,
+  "experienceScore" : 21.92457248482433,
+  "overallScore" : 29.001360458814876,
+  "reasoning" : "Candidate Meera Nair has a skill match of 37.1%, education match of 19.4%, and experience match of 21.9%. Overall relevance score is 29.0%."
+}, {
+  "rank" : 9,
+  "candidateName" : "Rohan Kumar",
+  "skillScore" : 41.70300011778198,
+  "educationScore" : 21.92457248482433,
+  "experienceScore" : 0.0,
+  "overallScore" : 25.23641455585586,
+  "reasoning" : "Candidate Rohan Kumar has a skill match of 41.7%, education match of 21.9%, and experience match of 0.0%. Overall relevance score is 25.2%."
+}, {
+  "rank" : 10,
+  "candidateName" : "Rahul Verma",
+  "skillScore" : 24.622638200179544,
+  "educationScore" : 21.92457248482433,
+  "experienceScore" : 0.0,
+  "overallScore" : 16.69623359705464,
+  "reasoning" : "Candidate Rahul Verma has a skill match of 24.6%, education match of 21.9%, and experience match of 0.0%. Overall relevance score is 16.7%."
+} ]

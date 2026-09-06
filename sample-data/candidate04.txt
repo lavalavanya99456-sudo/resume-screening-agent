@@ -1,0 +1,19 @@
+Name: Ananya Rao
+
+Education:
+Bachelor of Engineering in Computer Science
+
+Skills:
+Java, Spring Boot, SQL, Python, Git
+
+Experience:
+1 year of experience as a Software Engineer.
+
+Projects:
+Developed REST APIs using Spring Boot and Java.
+Worked with MySQL databases.
+Used Git and Maven for software development.
+
+Summary:
+Computer Science graduate with one year of software development
+experience. Strong knowledge of Java, Spring Boot and SQL.

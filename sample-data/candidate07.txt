@@ -1,0 +1,21 @@
+Name: Sneha Patel
+
+Education:
+Bachelor of Engineering in Computer Science
+
+Skills:
+Java, Spring Boot, SQL, JavaScript, Git, REST API, MySQL
+
+Experience:
+1 year and 6 months of experience as a Java Developer.
+
+Projects:
+Developed REST APIs using Java and Spring Boot.
+Designed database tables and queries using MySQL.
+Built web applications using JavaScript and HTML.
+Used Git for version control.
+
+Summary:
+Computer Science graduate with 1.5 years of Java development
+experience. Strong knowledge of Spring Boot, SQL, REST APIs
+and Git. Experienced in developing backend applications.

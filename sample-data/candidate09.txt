@@ -1,0 +1,21 @@
+Name: Priya Menon
+
+Education:
+Bachelor of Technology in Information Technology
+
+Skills:
+Java, Spring Boot, SQL, HTML, CSS, JavaScript, Git, REST API
+
+Experience:
+6 months of experience as a Java Developer.
+
+Projects:
+Developed a Java-based web application using Spring Boot.
+Created REST APIs and connected the application to a MySQL database.
+Built simple web pages using HTML, CSS and JavaScript.
+Used Git for version control.
+
+Summary:
+IT graduate with hands-on Java and Spring Boot experience.
+Good understanding of SQL, REST APIs and web development.
+Looking for an opportunity as a Junior Java Developer.

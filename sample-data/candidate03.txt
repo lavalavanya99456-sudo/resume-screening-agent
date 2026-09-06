@@ -1,0 +1,21 @@
+Name: Rohan Kumar
+
+Education:
+Bachelor of Technology in Information Technology
+
+Skills:
+Java, Python, SQL, Git, HTML, CSS, React
+
+Experience:
+2 years of experience as a Software Developer.
+
+Projects:
+Built backend services using Java.
+Worked with SQL databases and REST APIs.
+Developed frontend components using React.
+
+Summary:
+Software developer with 2 years of experience and strong
+programming skills. Experienced in Java and SQL, with some
+knowledge of frontend technologies. Interested in full-stack
+development.

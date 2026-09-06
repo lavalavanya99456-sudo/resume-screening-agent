@@ -1,0 +1,20 @@
+Name: Diya Reddy
+
+Education:
+Bachelor of Engineering in Electronics and Communication Engineering
+
+Skills:
+Java, SQL, HTML, CSS, JavaScript, Git, Spring Boot
+
+Experience:
+6 months internship as a Java Developer.
+
+Projects:
+Developed a student management application using Java and SQL.
+Created REST APIs using Spring Boot.
+Used Git for project version control.
+
+Summary:
+ECE graduate with practical Java development experience.
+Good knowledge of SQL, Spring Boot and web technologies.
+Interested in backend development.

@@ -1,0 +1,20 @@
+Name: Aarav Sharma
+
+Education:
+Bachelor of Engineering in Computer Science
+
+Skills:
+Java, Spring Boot, SQL, HTML, CSS, JavaScript, Git, REST API
+
+Experience:
+1 year of experience as a Junior Java Developer.
+
+Projects:
+Developed a web application using Java and Spring Boot.
+Worked with SQL databases and REST APIs.
+Used Git for version control.
+
+Summary:
+Java developer with hands-on experience in Spring Boot,
+SQL and web development. Strong understanding of backend
+development and REST APIs.

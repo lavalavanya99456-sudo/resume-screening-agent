@@ -1,0 +1,22 @@
+Name: Karthik Shetty
+
+Education:
+Bachelor of Engineering in Electronics and Communication Engineering
+
+Skills:
+Java, SQL, HTML, CSS, JavaScript, Git, C, Embedded Systems
+
+Experience:
+2 years of experience as an Embedded Software Engineer.
+
+Projects:
+Developed embedded applications using C and Java.
+Worked with SQL databases for application data.
+Created web-based monitoring tools using HTML, CSS and JavaScript.
+Used Git for source code management.
+
+Summary:
+ECE graduate with two years of software experience.
+Strong programming and SQL knowledge with good understanding
+of web technologies. Has Java experience but limited exposure
+to Spring Boot.

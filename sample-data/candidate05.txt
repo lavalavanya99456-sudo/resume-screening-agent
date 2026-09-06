@@ -1,0 +1,21 @@
+Name: Meera Nair
+
+Education:
+Bachelor of Engineering in Electronics and Communication Engineering
+
+Skills:
+Java, C++, SQL, HTML, CSS, Git, Embedded Systems
+
+Experience:
+1 year of experience in software and embedded development.
+
+Projects:
+Developed Java applications for internal tools.
+Worked with SQL databases and Git.
+Developed an IoT-based monitoring system using embedded
+controllers and sensors.
+
+Summary:
+ECE graduate with experience in Java, SQL and embedded systems.
+Good programming fundamentals with limited experience in
+Spring Boot.

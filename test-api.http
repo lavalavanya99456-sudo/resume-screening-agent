@@ -1,0 +1,53 @@
+### Test Resume Parser
+
+POST http://localhost:8080/api/resumes/parse
+Content-Type: multipart/form-data; boundary=----TestBoundary
+
+------TestBoundary
+Content-Disposition: form-data; name="file"; filename="candidate01.txt"
+Content-Type: text/plain
+
+Name: Aarav Sharma
+
+Education:
+Bachelor of Engineering in Computer Science
+
+Skills:
+Java, Spring Boot, SQL, HTML, CSS, JavaScript, Git
+
+Experience:
+1 year of experience as a Junior Java Developer.
+
+Projects:
+Developed a web application using Java and Spring Boot.
+Worked with SQL databases and REST APIs.
+Used Git for version control.
+
+Summary:
+Java developer with hands-on experience in Spring Boot,
+SQL and web development.
+
+------TestBoundary--
+
+
+### Test Candidate Screening
+
+POST http://localhost:8080/api/resumes/screen
+Content-Type: application/json
+
+{
+  "candidate": {
+    "name": "Aarav Sharma",
+    "skills": "Java, Spring Boot, SQL, HTML, CSS, JavaScript, Git",
+    "education": "Bachelor of Engineering in Computer Science",
+    "experience": "1 year of experience as a Junior Java Developer.",
+    "resumeText": "Java developer with Spring Boot and SQL experience."
+  },
+  "jobDescription": {
+    "title": "Junior Java Developer",
+    "requiredSkills": "Java, Spring Boot, SQL, HTML, CSS, JavaScript, Git",
+    "requiredEducation": "Bachelor",
+    "requiredExperience": "1 year",
+    "description": "Junior Java Developer with Java and Spring Boot skills."
+  }
+}
