@@ -67,7 +67,6 @@ resume-screening-agent/
 │   ├── ranked_candidates.json
 │   └── ranked_candidates.csv
 │
-|
 ├── pom.xml
 └── README.md
 └── SCORING_METHOD.md
