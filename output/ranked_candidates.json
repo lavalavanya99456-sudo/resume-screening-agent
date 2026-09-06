@@ -1,11 +1,4 @@
-
-  "educationScore" : 21.92457248482433,
-  "experienceScore" : 0.0,
-  "overallScore" : 42.65142702234807,
-  "reasoning" : "Candidate Priya Menon has a skill match of 76.5%, education match of 21.9%, and experience match of 0.0%. Overall relevance score is 42.7%."
-}, {
-  "rank" : 4,
-  "candidateName" : "Ananya Rao",[ {
+[ {
   "rank" : 1,
   "candidateName" : "Diya Reddy",
   "skillScore" : 100.00000000000003,
@@ -25,6 +18,13 @@
   "rank" : 3,
   "candidateName" : "Priya Menon",
   "skillScore" : 76.5330250507664,
+  "educationScore" : 21.92457248482433,
+  "experienceScore" : 0.0,
+  "overallScore" : 42.65142702234807,
+  "reasoning" : "Candidate Priya Menon has a skill match of 76.5%, education match of 21.9%, and experience match of 0.0%. Overall relevance score is 42.7%."
+}, {
+  "rank" : 4,
+  "candidateName" : "Ananya Rao",
   "skillScore" : 48.65786600969648,
   "educationScore" : 25.69564894663026,
   "experienceScore" : 25.69564894663026,
