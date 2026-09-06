@@ -69,3 +69,71 @@ resume-screening-agent/
 │
 ├── pom.xml
 └── README.md
+resume-screening-agent/
+│
+├── src/
+│   └── main/
+│       └── java/
+│           └── com/
+│               └── lavanya/
+│                   └── resume_screening_agent/
+│                       ├── controller/
+│                       ├── model/
+│                       ├── parser/
+│                       ├── scoring/
+│                       └── service/
+│
+├── sample-data/
+│   ├── job-description.json
+│   ├── candidate01.txt
+│   ├── candidate02.txt
+│   ├── candidate03.txt
+│   ├── candidate04.txt
+│   ├── candidate05.txt
+│   ├── candidate06.txt
+│   ├── candidate07.txt
+│   ├── candidate08.txt
+│   ├── candidate09.txt
+│   └── candidate10.txt
+│
+├── output/
+│   ├── ranked_candidates.json
+│   └── ranked_candidates.csv
+│
+├── pom.xml
+└── README.md
+resume-screening-agent/
+│
+├── src/
+│   └── main/
+│       └── java/
+│           └── com/
+│               └── lavanya/
+│                   └── resume_screening_agent/
+│                       ├── controller/
+│                       ├── model/
+│                       ├── parser/
+│                       ├── scoring/
+│                       └── service/
+│
+├── sample-data/
+│   ├── job-description.json
+│   ├── candidate01.txt
+│   ├── candidate02.txt
+│   ├── candidate03.txt
+│   ├── candidate04.txt
+│   ├── candidate05.txt
+│   ├── candidate06.txt
+│   ├── candidate07.txt
+│   ├── candidate08.txt
+│   ├── candidate09.txt
+│   └── candidate10.txt
+│
+├── output
+│   ├── ranked_candidates.json
+│   └── ranked_candidates.csv
+│
+├── pom.xml
+└── README.md
+└── SCORING_METHOD.md
+
