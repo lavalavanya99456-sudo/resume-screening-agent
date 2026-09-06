@@ -52,11 +52,16 @@ resume-screening-agent/
 │
 ├── sample-data/
 │   ├── job-description.json
-│   └── resumes/
-│       ├── candidate01.txt
-│       ├── candidate02.txt
-│       ├── candidate03.txt
-│       └── ...
+│   ├── candidate01.txt
+│   ├── candidate02.txt
+│   ├── candidate03.txt
+│   ├── candidate04.txt
+│   ├── candidate05.txt
+│   ├── candidate06.txt
+│   ├── candidate07.txt
+│   ├── candidate08.txt
+│   ├── candidate09.txt
+│   └── candidate10.txt
 │
 ├── output/
 │   ├── ranked_candidates.json
